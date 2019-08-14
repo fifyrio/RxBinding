@@ -113,9 +113,11 @@ I mean how to combine the method `disposed(by:)` into the operator `~>`.
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Author
-
+test
 lm2343635, lm2343635@126.com
 
 ## License
 
 RxBinding is available under the MIT license. See the LICENSE file for more info.
+
+
